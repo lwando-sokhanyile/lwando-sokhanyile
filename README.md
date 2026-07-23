@@ -11,9 +11,10 @@
 
 - Currently building **DevTrend Intelligence Platform** - a full pipeline that ingests GitHub trending data, transforms it through a three-layer dbt model, and orchestrates everything with Airflow
 - Self-taught data engineer, following a structured roadmap built on a **20% study / 80% build** philosophy
-- Targeting remote **junior data engineering** roles, especially with US-based teams
+- Targeting remote **junior data engineering** roles.
 - I care about understanding *why* something works, not just getting it to run
-- Reach me on [LinkedIn](https://www.linkedin.com/) - swap in your profile link here
+- Reach me on [LinkedIn]www.linkedin.com/in/lwando-sokhanyile
+
 
 ---
 
@@ -40,8 +41,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[DevTrend Intelligence Platform](https://github.com/lwando-sokhanyile/devtrend-intelligence-platform)** | Ingests GitHub trending repo data via the GitHub Search API, models it through a 3-layer dbt pipeline, orchestrated with Airflow, visualized in Metabase | Python, PostgreSQL, dbt, Airflow, Docker, Metabase |
-| **Weather Pipeline** | End-to-end weather data pipeline with automated email alerting | Python, Airflow, Docker, AWS (RDS, S3) |
-| **Real Estate Pipeline** | Cleaned and transformed housing data at scale, partitioned and stored for analysis | PySpark, Parquet, AWS S3, boto3 |
+| **[Weather Pipeline](https://github.com/weather-pipeline)** | End-to-end weather data pipeline with automated email alerting | Python, Airflow, Docker, AWS (RDS, S3) |
+| **[Real Estate Pipeline](https://github.com/lwando-sokhanyile/real-estate-pipeline)** | Cleaned and transformed housing data at scale, partitioned and stored for analysis | PySpark, Parquet, AWS S3, boto3 |
 
 ---
 
