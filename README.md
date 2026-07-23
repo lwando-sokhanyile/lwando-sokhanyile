@@ -48,7 +48,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lwando-sokhanyile&show_icons=true&theme=default" alt="Lwando's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lwando-sokhanyile&show_icons=true&theme=default&cache_seconds=1" alt="Lwando's GitHub stats" />
 </p>
 
 <p align="center">
