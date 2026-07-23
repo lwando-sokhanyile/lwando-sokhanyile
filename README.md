@@ -46,16 +46,29 @@
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lwando-sokhanyile&show_icons=true&theme=default&cache_seconds=1" alt="Lwando's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lwando-sokhanyile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    height="180"
+    alt="Lwando's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwando-sokhanyile" alt="Lwando's GitHub streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=lwando-sokhanyile&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
----
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwando-sokhanyile&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 <p align="center"><i>Currently deep in dbt models and Airflow DAGs - always happy to talk data engineering.</i></p>
