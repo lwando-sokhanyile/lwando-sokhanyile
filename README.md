@@ -1,23 +1,23 @@
-﻿<h1 align="center">Hi, I'm Lwando ðŸ‘‹</h1>
+﻿<h1 align="center">Hi, I'm Lwando</h1>
 <h3 align="center">Data Engineer | Building pipelines that turn raw data into decisions</h3>
 
 <p align="center">
-  ðŸ“ Mount Ayliff, Eastern Cape, South Africa &nbsp;|&nbsp; ðŸŒ Open to remote roles worldwide
+  Mount Ayliff, Eastern Cape, South Africa &nbsp;|&nbsp; Open to remote roles worldwide
 </p>
 
 ---
 
-### ðŸš€ About Me
+### About Me
 
-- ðŸ”­ I'm currently building **DevTrend Intelligence Platform** â€” a full pipeline that ingests GitHub trending data, transforms it through a three-layer dbt model, and orchestrates everything with Airflow
-- ðŸŒ± Self-taught data engineer, following a structured roadmap built on a **20% study / 80% build** philosophy
-- ðŸ’¼ Targeting remote **junior data engineering** roles, especially with US-based teams
-- ðŸ› ï¸ I care about understanding *why* something works, not just getting it to run
-- ðŸ“« Reach me on [LinkedIn](https://www.linkedin.com/) â€” swap in your profile link here
+- Currently building **DevTrend Intelligence Platform** - a full pipeline that ingests GitHub trending data, transforms it through a three-layer dbt model, and orchestrates everything with Airflow
+- Self-taught data engineer, following a structured roadmap built on a **20% study / 80% build** philosophy
+- Targeting remote **junior data engineering** roles, especially with US-based teams
+- I care about understanding *why* something works, not just getting it to run
+- Reach me on [LinkedIn](https://www.linkedin.com/) - swap in your profile link here
 
 ---
 
-### ðŸ§° Tech Stack
+### Tech Stack
 
 **Languages & Query**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-### ðŸ“Œ Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-### ðŸ“Š GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lwando-sokhanyile&show_icons=true&theme=default" alt="Lwando's GitHub stats" />
@@ -57,4 +57,4 @@
 
 ---
 
-<p align="center"><i>Currently deep in dbt models and Airflow DAGs â€” always happy to talk data engineering.</i></p>
+<p align="center"><i>Currently deep in dbt models and Airflow DAGs - always happy to talk data engineering.</i></p>
