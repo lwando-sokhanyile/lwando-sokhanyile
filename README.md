@@ -1,49 +1,172 @@
-﻿<h1 align="center">Hi, I'm Lwando</h1>
-<h3 align="center">Data Engineer | Building pipelines that turn raw data into decisions</h3>
+﻿# Hi, I'm Lwando 👋
 
-<p align="center">
-  Mount Ayliff, Eastern Cape, South Africa &nbsp;|&nbsp; Open to remote roles worldwide
-</p>
+### Self-Taught Junior Data Engineer | Python | SQL | AWS | Airflow | Docker | PostgreSQL
 
----
+I'm a self-taught aspiring Data Engineer based in South Africa, currently looking for my **first opportunity in data engineering**.
 
-### About Me
+Over the past few months, I've focused on building complete data systems rather than only practicing individual tools.
 
-- Currently building **DevTrend Intelligence Platform** - a full pipeline that ingests GitHub trending data, transforms it through a three-layer dbt model, and orchestrates everything with Airflow
-- Self-taught data engineer, following a structured roadmap built on a **20% study / 80% build** philosophy
-- Targeting remote **junior data engineering** roles.
-- I care about understanding *why* something works, not just getting it to run
-- Reach me on [LinkedIn]www.linkedin.com/in/lwando-sokhanyile
+I've built, tested, debugged, documented, and productionized data pipelines using Python, SQL, AWS, PostgreSQL, Docker, Airflow, PySpark, and dbt.
 
+I'm now actively looking for a **Junior Data Engineer, Data Engineer Intern, Analytics Engineer, or Data Engineering role** where I can contribute to a real engineering team and continue growing.
 
 ---
 
-### Tech Stack
+## What I've Been Building
 
-**Languages & Query**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+My approach has been simple:
 
-**Data Engineering**
-![Apache Spark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Learn → Build → Break → Debug → Improve → Document**
 
-**Cloud & Storage**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+Over roughly four months of actively using GitHub, I've made **111+ commits** while building and improving my projects.
 
----
+My focus has been on understanding **why** systems are designed the way they are, not just learning how to use individual technologies.
 
-### Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[DevTrend Intelligence Platform](https://github.com/lwando-sokhanyile/devtrend-intelligence-platform)** | Ingests GitHub trending repo data via the GitHub Search API, models it through a 3-layer dbt pipeline, orchestrated with Airflow, visualized in Metabase | Python, PostgreSQL, dbt, Airflow, Docker, Metabase |
-| **[Weather Pipeline](https://github.com/weather-pipeline)** | End-to-end weather data pipeline with automated email alerting | Python, Airflow, Docker, AWS (RDS, S3) |
-| **[Real Estate Pipeline](https://github.com/lwando-sokhanyile/real-estate-pipeline)** | Cleaned and transformed housing data at scale, partitioned and stored for analysis | PySpark, Parquet, AWS S3, boto3 |
+**Weather Data Pipeline**
+
+Open-Meteo → Python → Amazon S3 → Validation → Transformation → PostgreSQL/RDS → Airflow
+
+A production-style daily weather pipeline with raw data preservation, validation, transformation, idempotent database upserts, Docker containerization, Airflow orchestration, retries, testing, and AWS storage.
+
+🔗 https://github.com/lwando-sokhanyile/weather-pipeline
 
 ---
 
-<p align="center"><i>Currently deep in dbt models and Airflow DAGs - always happy to talk data engineering.</i></p>
+**DevTrend Intelligence Platform**
+
+GitHub API → Python → PostgreSQL → Airflow → dbt → Metabase
+
+A data platform that collects GitHub trending data and transforms it into analytics-ready datasets and dashboards.
+
+🔗 https://github.com/lwando-sokhanyile/devtrend-intelligence-platform
+
+---
+
+**Real Estate Data Pipeline**
+
+Kaggle → PySpark → AWS S3 → Data Transformation
+
+A batch data engineering project focused on processing and transforming real-world housing data using PySpark and cloud storage.
+
+🔗 https://github.com/lwando-sokhanyile/real-estate-pipeline
+
+---
+
+**Logistics Data Warehouse**
+
+Python → AWS S3 → PostgreSQL → Data Warehouse Layers
+
+A collaborative data warehouse project involving raw data ingestion, AWS S3 integration, Bronze/Silver warehouse layers, and database loading.
+
+🔗 https://github.com/Letsela07/logistics_data_warehouse
+
+---
+
+## Technical Skills
+
+### Languages
+
+* Python
+* SQL
+
+### Data Engineering
+
+* ETL / ELT
+* Data validation
+* Data transformation
+* Data quality
+* Batch pipelines
+* Idempotent pipelines
+* Data warehousing
+* API ingestion
+* Pipeline reliability
+
+### Databases
+
+* PostgreSQL
+
+### Cloud
+
+* AWS S3
+* AWS RDS
+* AWS IAM
+* AWS Cloud Practitioner certified
+
+### Data Tools
+
+* Apache Airflow
+* dbt
+* PySpark
+* pandas
+* SQLAlchemy
+
+### Infrastructure
+
+* Docker
+* Linux fundamentals
+* Git / GitHub
+
+---
+
+## How I Approach Engineering
+
+I don't want my projects to simply produce the correct output.
+
+I want to understand what happens when things go wrong.
+
+So I've deliberately worked on things such as:
+
+* API failures
+* Data validation failures
+* Duplicate records
+* Idempotent database writes
+* Retry behaviour
+* Raw data preservation
+* Database connectivity
+* Airflow failures
+* Docker configuration issues
+* Pipeline reproducibility
+* Architecture simplification
+
+Some of the most useful things I've learned came from debugging problems rather than avoiding them.
+
+---
+
+## Currently Looking For
+
+I'm currently open to:
+
+* Junior Data Engineer
+* Data Engineer Intern
+* Graduate Data Engineer
+* Analytics Engineer
+* Data Engineering roles at startups
+* Remote data engineering opportunities
+
+I'm particularly interested in teams where I can work on **data pipelines, cloud infrastructure, databases, ETL/ELT, and analytics systems**.
+
+📩 If you're hiring for an entry-level data engineering opportunity, I'd be happy to connect.
+
+---
+
+## Certification
+
+**AWS Certified Cloud Practitioner**
+
+I'm continuing to deepen my AWS knowledge while building production-style data engineering projects.
+
+---
+
+## Let's Connect
+
+**LinkedIn:**
+https://www.linkedin.com/in/lwando-sokhanyile/
+
+**GitHub:**
+https://github.com/lwando-sokhanyile
+
+I'm currently looking for my first opportunity to turn the systems I've been building independently into experience working with a real engineering team.
+
+Thanks for stopping by.
