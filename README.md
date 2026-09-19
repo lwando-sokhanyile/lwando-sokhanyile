@@ -24,16 +24,6 @@ My focus has been on understanding **why** systems are designed the way they are
 
 ### 🚀 Featured Projects
 
-**Weather Data Pipeline**
-
-Open-Meteo → Python → Amazon S3 → Validation → Transformation → PostgreSQL/RDS → Airflow
-
-A production-style daily weather pipeline with raw data preservation, validation, transformation, idempotent database upserts, Docker containerization, Airflow orchestration, retries, testing, and AWS storage.
-
-🔗 https://github.com/lwando-sokhanyile/weather-pipeline
-
----
-
 **DevTrend Intelligence Platform**
 
 GitHub API → Python → PostgreSQL → Airflow → dbt → Metabase
@@ -41,6 +31,16 @@ GitHub API → Python → PostgreSQL → Airflow → dbt → Metabase
 A data platform that collects GitHub trending data and transforms it into analytics-ready datasets and dashboards.
 
 🔗 https://github.com/lwando-sokhanyile/devtrend-intelligence-platform
+
+---
+
+**Weather Data Pipeline**
+
+Open-Meteo → Python → Amazon S3 → Validation → Transformation → PostgreSQL/RDS → Airflow
+
+A production-style daily weather pipeline with raw data preservation, validation, transformation, idempotent database upserts, Docker containerization, Airflow orchestration, retries, testing, and AWS storage.
+
+🔗 https://github.com/lwando-sokhanyile/weather-pipeline
 
 ---
 
